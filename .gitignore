@@ -9,9 +9,9 @@
 *.ear
 
 # Eclipse
-.classpath
-.project
-.settings/
+# add point classpath
+# project
+# settings/
 
 # Maven
 /target/
